@@ -1,0 +1,46 @@
+## --- Pastas de Compilação e Binários ---
+[Bb]in/
+[Oo]bj/
+[Qq]uartex/        # Se estiver usando o novo compilador experimental
+out/
+build/
+
+## --- Arquivos do Visual Studio (IDE) ---
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+.metadata/
+
+## --- .NET / C# ---
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.patch
+*.nupkg
+# Arquivos de segredos (NUNCA envie para o Git)
+appsettings.Development.json
+secrets.json
+.env
+
+## --- Ferramentas e Cache ---
+.vsconfig
+.librarymanager/
+.cache/
+.recommenders/
+
+## --- Node.js / Front-end (se houver) ---
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.pnpm-store/
+
+## --- Testes e Cobertura ---
+TestResults/
+*.sequenced.json
+coverage/
+
+## --- Sistema Operacional ---
+Thumbs.db
+.DS_Store
