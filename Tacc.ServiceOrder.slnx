@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/src/">
     <Project Path="src/Tacc.ServiceOrder.Api/Tacc.ServiceOrder.Api.csproj" />
+    <Project Path="src/Tacc.ServiceOrder.Domain/Tacc.ServiceOrder.Domain.csproj" Id="ed092911-b054-4114-99c0-1ca441727b17" />
   </Folder>
 </Solution>
