@@ -11,10 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Tacc.ServiceOrder.Application\Tacc.ServiceOrder.Application.csproj" />
   </ItemGroup>
 
