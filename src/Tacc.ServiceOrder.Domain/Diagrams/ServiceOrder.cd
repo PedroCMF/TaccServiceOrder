@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Tacc.ServiceOrder.Domain.Entities.BaseEintity" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAECAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\BaseEintity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tacc.ServiceOrder.Domain.Entities.Manufacturing">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAQAAAQAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Entities\Manufacturing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tacc.ServiceOrder.Domain.Entities.Product">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Entities\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tacc.ServiceOrder.Domain.Entities.User">
+    <Position X="7" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEIAACAAAAACAAAAAAAAAAAAAAACAAAAIAAAAAg=</HashCode>
+      <FileName>Entities\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
